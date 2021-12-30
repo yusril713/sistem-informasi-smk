@@ -1,0 +1,3 @@
+/*
+	do not delete this file to allow CKEditor website uploading this plugin
+*/
